@@ -1,0 +1,9 @@
+﻿  Hangman.cpp
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(107): warning C4129: ' ': unrecognized character escape sequence
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\hangman\hangman\hangman.cpp(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hangman.vcxproj -> C:\Users\user\source\repos\Hangman\Debug\Hangman.exe
